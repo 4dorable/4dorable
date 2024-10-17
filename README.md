@@ -12,12 +12,16 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 \\___ GameHacking on AssaultCube  
      \\_ C++ - C / ASM / Reverse / Network  
 
-  
+
+
+      
 
 **🌱. Certifications**   
 \\___ Training for HTB Pentester Path  
 
 
+
+    
 
 **🌱. Programming Language**  
 \\___ C/C++
