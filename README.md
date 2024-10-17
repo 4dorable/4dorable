@@ -12,12 +12,14 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 \\___[ First step into Kernel Dev, syscalls and hooking <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `kernel Dev`, `networking`
 
+---
+
 - `🌱` **`GameHacking on AssaultCube`**<br>
 \\___[ Creating several Cheats for AssaultCube and learning about it <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `reverse`, `networking`
 
 
-    
+---
 
 🌱 **Certifications**:
 
@@ -26,7 +28,7 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`, `networking`, `toolkit`, `red team`
 
 
-    
+---
 
 🌱 **Next Step**:
 
