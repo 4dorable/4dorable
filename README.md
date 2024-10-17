@@ -1,25 +1,25 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=10F719&width=435&lines=hey%2C+c'est+4dorable+%3A3;losing+my+mind+%3A3)](https://git.io/typing-svg)
 
-**Me:** 
-CyberSecurity - low level - reverse / pwn enjoyer & learner. 
-Wannabe security specialist and/or MalDev programmer / analyst.
+**Me:**  
+CyberSecurity - low level - reverse / pwn enjoyer & learner.   
+Wannabe security specialist and/or MalDev programmer / analyst.  
 
 
----
-**🌱. Actual projects**
-\___[RootKit for Linux]
+
+**🌱. Actual projects**  
+\___[RootKit for Linux]  
     \_ C / ASM / Python / Network / Kernel
-\___[GameHacking on AssaultCube]
-    \_ C++ - C / ASM / Reverse / Network
+\___[GameHacking on AssaultCube]  
+    \_ C++ - C / ASM / Reverse / Network  
 
   
----
-**🌱. Certifications** 
-\___Training for HTB Pentester Path
+
+**🌱. Certifications**   
+\___Training for HTB Pentester Path  
 
 
----
-**🌱. Programming Language**
+
+**🌱. Programming Language**  
 \___C/C++
 \___ASM Intel x86
 \___Python
