@@ -20,8 +20,15 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 🌱 **Certifications**:
 
 - `🌱` **`Future HTB PenTester`**<br>
-\\___[ Completing Pentester Path (25% done)<br>
+\\___[ Completing Pentester Path (about 25% done)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`, `networking`, `toolkit`, `red team`
+
+
+🌱 **Next Step**:
+
+- `🌱` **`Malware dev for windows`**<br>
+\\___[ Improve on Windows Internal, learn to dev and analyse malware<br>
+
 
 
 <!--
