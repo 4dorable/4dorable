@@ -7,25 +7,26 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 ---
 
-## 🌱 Actual Projects  
-💻 **RootKit for Linux**  
-\___C / ASM / Python / Network / Kernel
+---
 
-🎮 **GameHacking on AssaultCube**  
-\___C++ / C / ASM / Reverse / Network
+## 🌱. Actual Projects  
+\\___ RootKit for Linux  
+\______ C / ASM / Python / Network / Kernel  
+\\___ GameHacking on AssaultCube  
+\______ C++ - C / ASM / Reverse / Network
 
 ---
 
-## 🌱 Certifications  
-📜 **Training for HTB Pentester Path**
+## 🌱. Certifications  
+\\___ Training for HTB Pentester Path
 
 ---
 
-## 🌱 Programming Languages  
-\___C / C++  
-\___ASM Intel x86  
-\___Python  
-\___Bash
+## 🌱. Programming Languages  
+\\___ C / C++  
+\\___ ASM Intel x86  
+\\___ Python  
+\\___ Bash
 <!--
 **4dorable/4dorable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
