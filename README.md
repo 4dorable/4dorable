@@ -7,9 +7,11 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 
 **🌱. Actual projects**  
-\\___ RootKit for Linux  
+\\___ RootKit for Linux   
+
                 \\_ C / ASM / Python / Network / Kernel
-\\___ GameHacking on AssaultCube  
+\\___ GameHacking on AssaultCube    
+
                 \\_ C++ - C / ASM / Reverse / Network  
 
   
