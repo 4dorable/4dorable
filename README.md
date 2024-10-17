@@ -5,28 +5,30 @@ CyberSecurity - low level - reverse / pwn enjoyer & learner.
 Wannabe security specialist and/or MalDev programmer / analyst.  
 
 
----
 
----
-
-** 🌱. Actual Projects  **  
-\\___ RootKit for Linux  
-\______ C / ASM / Python / Network / Kernel  
+**🌱. Actual projects**  
+\\___ RootKit for Linux   
+    \\_ C / ASM / Python / Network / Kernel
 \\___ GameHacking on AssaultCube  
-\______ C++ - C / ASM / Reverse / Network
+     \\_ C++ - C / ASM / Reverse / Network  
 
----
 
-** 🌱. Certifications ** 
-\\___ Training for HTB Pentester Path
 
----
+      
 
-** 🌱. Programming Languages **
-\\___ C / C++  
-\\___ ASM Intel x86  
-\\___ Python  
+**🌱. Certifications**   
+\\___ Training for HTB Pentester Path  
+
+
+
+    
+
+**🌱. Programming Language**  
+\\___ C/C++
+\\___ ASM Intel x86
+\\___ Python
 \\___ Bash
+
 <!--
 **4dorable/4dorable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
