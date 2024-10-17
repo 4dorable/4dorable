@@ -6,29 +6,23 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 
 
-**🌱. Actual projects**  
-\\___ RootKit for Linux   
-    \\_ C / ASM / Python / Network / Kernel  
-    
-\\___ GameHacking on AssaultCube  
-     \\_ C++ - C / ASM / Reverse / Network  
+🌱 **Projects**:
+
+- `🌱` **`RootKit for Linux`**<br>
+\\___[ First step into Kernel Dev, syscalls and hooking <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `kernel Dev`, `networking`
+
+- `🌱` **`GameHacking on AssaultCube`**<br>
+\\___[ Creating several Cheats for AssaultCube and learning about it <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `reverse`, `networking`
 
 
+🌱 **Certifications**:
 
-      
+- `🌱` **`Future HTB PenTester`**<br>
+\\___[ Completing Pentester Path (25% done)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`, `networking`, `toolkit`, `red team`
 
-**🌱. Certifications**   
-\\___ Training for HTB Pentester Path  
-
-
-
-    
-
-**🌱. Programming Language**  
-\\___ C/C++
-\\___ ASM Intel x86
-\\___ Python
-\\___ Bash
 
 <!--
 **4dorable/4dorable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
