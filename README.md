@@ -17,12 +17,16 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `reverse`, `networking`
 
 
+    
+
 🌱 **Certifications**:
 
 - `🌱` **`Future HTB PenTester`**<br>
 \\___[ Completing Pentester Path (about 25% done)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`, `networking`, `toolkit`, `red team`
 
+
+    
 
 🌱 **Next Step**:
 
