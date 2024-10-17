@@ -5,7 +5,7 @@ CyberSecurity - low level - reverse / pwn enjoyer & learner.
 Wannabe security specialist and/or MalDev programmer / analyst.
 
 
-
+---
 **🌱. Actual projects**
 \___[RootKit for Linux]
     \_ C / ASM / Python / Network / Kernel
@@ -13,12 +13,12 @@ Wannabe security specialist and/or MalDev programmer / analyst.
     \_ C++ - C / ASM / Reverse / Network
 
   
-
+---
 **🌱. Certifications** 
 \___Training for HTB Pentester Path
 
 
-
+---
 **🌱. Programming Language**
 \___C/C++
 \___ASM Intel x86
