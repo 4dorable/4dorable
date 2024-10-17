@@ -9,7 +9,7 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 ---
 
-## 🌱. Actual Projects  
+** 🌱. Actual Projects  **  
 \\___ RootKit for Linux  
 \______ C / ASM / Python / Network / Kernel  
 \\___ GameHacking on AssaultCube  
@@ -17,12 +17,12 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 ---
 
-## 🌱. Certifications  
+** 🌱. Certifications ** 
 \\___ Training for HTB Pentester Path
 
 ---
 
-## 🌱. Programming Languages  
+** 🌱. Programming Languages **
 \\___ C / C++  
 \\___ ASM Intel x86  
 \\___ Python  
