@@ -38,7 +38,13 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 - `🌱` **`Malware dev for windows`**<br>
 \\___[ Improve on Windows Internal, learn to dev and analyse malware<br>
 
-
+┊         ┊       ┊   ┊    ┊        ┊
+┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
+┊         ┊       ┊   ⋆
+┊         ┊       ★⋆
+┊ ◦
+★⋆      ┊ .  ˚
+           ˚★
 
 
 
