@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48F727&width=435&lines=hey%2C+c'est+4dorable.+%3A3;%3E+reading+that+fvcking+manual;%3E+do+not+understand+shit)](https://git.io/typing-svg)
 
-
+.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚  *ੈ✩‧₊˚  ✩₊˚.⋆☾⋆⁺₊✧✴  *ੈ✩‧₊˚  
 
 **Me:**  
 CyberSecurity - low level - reverse / pwn enjoyer & learner.   
