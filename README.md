@@ -27,7 +27,7 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 🌱 **Certifications**:
 
 - `🌱` **`Future HTB PenTester`**<br>
-\\___[ Completing Pentester Path (about 25% done)<br>
+\\___[ Completing WEB Pentester / BugBounty Path (about 50% done)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `bash`, `networking`, `toolkit`, `red team`
 
 
