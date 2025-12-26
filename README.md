@@ -4,7 +4,8 @@
 
 **Me:**  
 CyberSecurity - low level - reverse / pwn enjoyer & learner.   
-Wannabe security specialist and/or MalDev programmer / analyst.  
+Wannabe security specialist and/or MalDev programmer / analyst.
+Any Pronouns
 
 
 
@@ -12,13 +13,13 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 🌱 **Projects**:
 
-- `🌱` **`RootKit for Linux`**<br>
+- `🌱` **`RootKit for Linux -- DONE`**<br>
 \\___[ First step into Kernel Dev, syscalls and hooking <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `kernel Dev`, `networking`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `Linux kernel dev`, `networking`
 
 
-- `🌱` **`GameHacking on AssaultCube`**<br>
-\\___[ Creating several Cheats for AssaultCube and learning about it <br>
+- `🌱` **`GameHacking`**<br>
+\\___[ Reversing Video Games for fun and no profit <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `reverse`, `networking`
 
 
@@ -26,9 +27,9 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 
 🌱 **Certifications**:
 
-- `🌱` **`Future HTB PenTester`**<br>
-\\___[ Completed WEB Pentester / BugBounty Path - I will pass it within the 6 next months<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `web pentest`, `enumeration`, `toolkit`, `red team`
+- `🌱` **`HackTheBox PenTester`**<br>
+\\___[ Completed WEB Pentester Job Role Path - Currently doing Penetration Tester Job Role Path ~61% done<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `web pentest`, `red team`, `real life condition`, `top 1000 in HTB`, `exegol`
 
 
 ---
@@ -36,9 +37,18 @@ Wannabe security specialist and/or MalDev programmer / analyst.
 🌱 **Next Step**:
 
 - `🌱` **`Malware dev for windows`**<br>
-\\___[ Improve on Windows Internal, learn to dev and analyse malware<br>
+\\___[ Improve on Windows Internal, learn to dev and reverse engineer malware<br>
 
 
+- `🌱` **`Pwn & Reverse`**<br>
+\\___[ Improve on Low Level hacking, get as much points on rootme on these categories<br>
+
+
+---
+
+🌱 **My Language**:
+
+- `🌱` **`C - C++ - Python - Rust (soon) - Assembly x86_64 - Go (soon) - COBOL (soon)`**<br>
 
 <!--
 **4dorable/4dorable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
