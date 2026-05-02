@@ -12,7 +12,7 @@ Any Pronouns
 
   
 
-🌱 **Projects**:
+🌱 **Some Projects**:
 
 - `🌱` **`RootKit for Linux -- DONE`**<br>
 \\___[ First step into Kernel Dev, syscalls and hooking <br>
@@ -23,13 +23,23 @@ Any Pronouns
 \\___[ Reversing Video Games for fun and no profit <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`, `reverse`, `networking`
 
+- `🌱` **`Real Life Pentesting`**<br>
+\\___[ Attack real & complex infrastructures  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `recon`, `pentesting`, `programming`, `networking`
 
+- `🌱` **`Windows Kernel Drivers`**<br>
+\\___[ IOCTL Fuzzing, BYOVD and Dev Detection Mechanisms for fun  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Windows kernel dev`, `c`, `programming`, `read the docs`
+
+- `🌱` **`Reversing Shellcode`**<br>
+\\___[ Reverse and Debug anti debug Shellcode and manually unpack binary   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Windows internals`, `c`, `asm`, `miasm`
 ---
 
 🌱 **Certifications**:
 
 - `🌱` **`HackTheBox PenTester`**<br>
-\\___[ Completed WEB Pentester Job Role Path - Currently doing Penetration Tester Job Role Path ~75% done<br>
+\\___[ **Completed WEB Pentester Job Role Path** - Currently doing Penetration Tester Job Role Path ~75% done<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `web pentest`, `red team`, `real life condition`, `top 1000 in HTB`, `exegol`
 
 
