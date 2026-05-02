@@ -5,6 +5,7 @@
 **Me:**  
 CyberSecurity - low level - reverse / pwn enjoyer & learner.   
 Wannabe security specialist and/or MalDev programmer / analyst.
+Master II on HackTheBox
 Any Pronouns
 
 
@@ -28,7 +29,7 @@ Any Pronouns
 🌱 **Certifications**:
 
 - `🌱` **`HackTheBox PenTester`**<br>
-\\___[ Completed WEB Pentester Job Role Path - Currently doing Penetration Tester Job Role Path ~61% done<br>
+\\___[ Completed WEB Pentester Job Role Path - Currently doing Penetration Tester Job Role Path ~75% done<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `web pentest`, `red team`, `real life condition`, `top 1000 in HTB`, `exegol`
 
 
@@ -41,7 +42,7 @@ Any Pronouns
 
 
 - `🌱` **`Pwn & Reverse`**<br>
-\\___[ Improve on Low Level hacking, get as much points on rootme on these categories<br>
+\\___[ Improve on Low Level hacking Cheats, and do CTFs on these categories<br>
 
 
 ---
